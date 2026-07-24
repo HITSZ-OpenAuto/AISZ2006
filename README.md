@@ -1,5 +1,4 @@
 # AISZ2006 - 自然语言处理
-
 <!-- TOML-META: repo_type="normal" -->
 
 自然语言处理，讲述传统自然语言处理发展和当前大模型时代自然语言处理的技术图谱，同时配备8次实验，实验循序渐进，参考实验要求编写代码，借由大模型实现各项任务，从传统分词任务到模型微调再到构建自己的智能体，能够在实验中充分实践理论知识，真正动手对自然语言和大模型驱魅。
@@ -23,63 +22,59 @@
 > 文 / [LeafDot37](https://github.com/LeafDot37)，2026-07
 
 <!-- TOML-LECTURERS: part="items" -->
-
 - 张梅山
-
-  <!-- TOML-ITEM: id="review-教师A-1" -->
-
+  <!-- TOML-ITEM: id="review-张梅山-1" -->
   - 主要讲授传统自然语言处理部分，课件几乎全英文，但能够很好地讲解。通过他的讲解，同学能够对传统自然语言处理的主要技术都有比较深入的了解，对其发展脉络也会比较清晰。同时老师喜欢打羽毛球，应该是非常高深莫测那种，有感兴趣同学可以去试试。
   - > 文 / [LeafDot37](https://github.com/LeafDot37)，2026-07
-    >
-
-  <!-- TOML-ITEM: id="review-教师A-2" -->
+  - >
 - 户保田
-
-  <!-- TOML-ITEM: id="review-教师B-1" -->
-
+  <!-- TOML-ITEM: id="review-户保田-1" -->
   - 主要讲授现代大模型时代与自然语言相关的知识，真的能够手撕Transformer，从时间脉络讲清现代大模型的发展历程，启发同学思考每一步发展的底层，是如何一步步改进达到今天的大模型。老师上课还喜欢谈论自己的成长过程，非常有趣。
     > 文 / [LeafDot37](https://github.com/LeafDot37)，2026-07
-    >
-
-<!-- TOML-LECTURERS: part="summary" -->
-
-<!-- TOML-ITEM: id="lecturers-summary-1" -->
-
-<!-- TOML-ITEM: id="lecturers-summary-2" -->
+  <!-- TOML-ITEM: id="review-户保田-2" -->
+  - >
 
 ## 考核方式
-
 <!-- TOML-SECTION: title="考核方式" -->
 
 <!-- TOML-ITEM: id="item-考核方式-1" -->
+
+<!-- TOML-SECTION: title="考核方式" -->
+
+<!-- TOML-ITEM: id="item-考核方式-2" -->
 
 • 论文成绩: 40%
 • 实验成绩: 60%
 
 > 文 / [LeafDot37](https://github.com/LeafDot37)，2026-07
 
-<!-- TOML-ITEM: id="item-考核方式-2" -->
+<!-- TOML-ITEM: id="item-考核方式-3" -->
 
 • 2026年:无平时成绩和考试成绩，论文40%+实验60%
 
 > 文 / [LeafDot37](https://github.com/LeafDot37)，2026-07
 
 ## 学习资料
-
 <!-- TOML-SECTION: title="学习资料" -->
 
 <!-- TOML-ITEM: id="item-学习资料-1" -->
+
+<!-- TOML-SECTION: title="学习资料" -->
+
+<!-- TOML-ITEM: id="item-学习资料-2" -->
 
 本课程无参考教材，主要内容都在课件上，由于版权问题不展示课件
 
 有需要相关笔记可以参考[LeafDot37笔记](https://github.com/LeafDot37/notes-share)，仅个人整理，供参考不参与任何其他用途。
 
-
 ## 课程建议
-
 <!-- TOML-SECTION: title="课程建议" -->
 
 <!-- TOML-ITEM: id="item-课程建议-1" -->
+
+<!-- TOML-SECTION: title="课程建议" -->
+
+<!-- TOML-ITEM: id="item-课程建议-2" -->
 
 - 虽然没有平时分和考试，但是老师上课知识确实都是干货，值得花时间琢磨
 - 实验老师会提供参考代码，但是真正跑通是有一定难度的，同时对于参考代码可以保存并理解其原理
